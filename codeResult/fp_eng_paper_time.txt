@@ -1,0 +1,14 @@
+the sum of paragrapgs is: 4000
+
+0.547681093216 seconds to get the data.
+
+The minimum support number is: 200.0
+
+0.0651919841766 seconds to get 154 1-frequent-pattern items.
+
+================divide===================
+
+0.611190080643 seconds to build the tree.
+
+1.30148506165 seconds to get the frequent items.
+

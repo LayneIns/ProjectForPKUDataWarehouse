@@ -1,0 +1,22 @@
+0.610012054443 seconds to get the data.
+
+In level 1, the minimum support number is: 200.0
+
+0.0636551380157 seconds to get 154 1-frequent-pattern items.
+
+================divide===================
+
+0.183017969131 seconds to get 11781 level 2 candidaite items.
+
+109.838980198 seconds to get 282 2-frequent-pattern items. 
+
+================divide===================
+0.0707771778107 seconds to get 864 level 3 candidaite items.
+
+10.6355469227 seconds to get 66 3-frequent-pattern items. 
+
+================divide===================
+0.00129699707031 seconds to get 28 level 4 candidaite items.
+
+0.434149026871 seconds to get 0 4-frequent-pattern items. 
+
